@@ -1,6 +1,6 @@
 **to use with angular-seed**
 
-this assumes project asumes you have node and npm installed
+this assumes project assumes you have node and npm installed
 
 - add server.js to the root of your project
 - add "express": "3.4.8" to the devDependencies section of your package.json

@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c5294a60-2ec2-4269-a2a8-09473a150968" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="simple-node-angular-server.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,7 +37,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="28" selection-start="163" selection-end="163" vertical-scroll-proportion="0.07903056" vertical-offset="0" max-vertical-offset="949">
+            <state line="7" column="33" selection-start="301" selection-end="301" vertical-scroll-proportion="0.11064278" vertical-offset="0" max-vertical-offset="949">
               <folding />
             </state>
           </provider>
@@ -254,7 +253,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="28" selection-start="163" selection-end="163" vertical-scroll-proportion="0.07903056" vertical-offset="0" max-vertical-offset="949">
+        <state line="7" column="33" selection-start="301" selection-end="301" vertical-scroll-proportion="0.11064278" vertical-offset="0" max-vertical-offset="949">
           <folding />
         </state>
       </provider>
